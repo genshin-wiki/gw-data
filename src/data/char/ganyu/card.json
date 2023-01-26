@@ -1,0 +1,29 @@
+{
+  "avatar": "/image/char/avatar/Ganyu.png",
+  "name": "甘雨",
+  "prefix": "循循守月",
+  "by": "月海亭",
+  "rank": 5,
+  "element": "冰",
+  "constell": "仙麟座",
+  "weapon": "弓",
+  "cv": {
+    "cn": "林簌",
+    "jp": "上田丽奈",
+    "en": "Jennifer Losi",
+    "kr": "김선혜"
+  },
+  "desc": "月海亭的秘书，体内流淌着仙兽「麒麟」的血脉。",
+  "attributes": {
+    "attackType": "远程",
+    "hp": 763,
+    "attack": 49,
+    "defense": 49,
+    "proficient": 0,
+    "critRate": "5.0%",
+    "critDamage": "50%",
+    "heal": "0.0%",
+    "healMe": "0.0%",
+    "recharge": "100%"
+  }
+}

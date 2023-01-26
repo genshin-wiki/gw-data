@@ -1,0 +1,29 @@
+{
+  "avatar": "/image/char/avatar/Xiao.png",
+  "name": "魈",
+  "prefix": "护法夜叉",
+  "by": "璃月仙人",
+  "rank": 5,
+  "element": "风",
+  "constell": "金翅鹏王座",
+  "weapon": "长柄武器",
+  "cv": {
+    "cn": "kinsen",
+    "jp": "松冈祯丞",
+    "en": "Laila Berzins",
+    "kr": "심규혁"
+  },
+  "desc": "守护璃月的仙人，「夜叉」。美号「降魔大圣」，妙称「护法夜叉大将」。",
+  "attributes": {
+    "attackType": "远程",
+    "hp": 991,
+    "attack": 27,
+    "defense": 62,
+    "proficient": 0,
+    "critRate": "5.0%",
+    "critDamage": "50%",
+    "heal": "0.0%",
+    "healMe": "0.0%",
+    "recharge": "100%"
+  }
+}

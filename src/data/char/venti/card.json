@@ -1,0 +1,29 @@
+{
+  "avatar": "/image/char/avatar/Venti.png",
+  "name": "温迪",
+  "prefix": "风色诗人",
+  "by": "蒙德城",
+  "rank": 5,
+  "element": "风",
+  "constell": "歌仙座",
+  "weapon": "弓",
+  "cv": {
+    "cn": "喵酱",
+    "jp": "村濑步",
+    "en": "艾丽卡·哈拉彻",
+    "kr": "郑侑廷"
+  },
+  "desc": "蒙德城诸多吟游诗人中的一位，自由自在地穿行在街头巷尾。",
+  "attributes": {
+    "attackType": "远程",
+    "hp": 820,
+    "attack": 44,
+    "defense": 52,
+    "proficient": 0,
+    "critRate": "5.0%",
+    "critDamage": "50%",
+    "heal": "0.0%",
+    "healMe": "0.0%",
+    "recharge": "100%"
+  }
+}

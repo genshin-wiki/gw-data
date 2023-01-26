@@ -1,0 +1,29 @@
+{
+  "avatar": "/image/char/avatar/Klee.png",
+  "name": "可莉",
+  "prefix": "逃跑的太阳",
+  "by": "西风骑士团",
+  "rank": 5,
+  "element": "火",
+  "constell": "四叶草座",
+  "weapon": "法器",
+  "cv": {
+    "cn": "花玲",
+    "jp": "久野美咲",
+    "en": "帕娜姆·巴苏",
+    "kr": "房莲知"
+  },
+  "desc": "西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。",
+  "attributes": {
+    "attackType": "远程",
+    "hp": 801,
+    "attack": 47,
+    "defense": 48,
+    "proficient": 0,
+    "critRate": "5.0%",
+    "critDamage": "50%",
+    "heal": "0.0%",
+    "healMe": "0.0%",
+    "recharge": "100%"
+  }
+}

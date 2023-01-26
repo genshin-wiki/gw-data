@@ -1,0 +1,29 @@
+{
+  "avatar": "/image/char/avatar/Hutao.png",
+  "name": "胡桃",
+  "prefix": "雪霁梅香",
+  "by": "往生堂",
+  "rank": 5,
+  "element": "火",
+  "constell": "引蝶座",
+  "weapon": "长柄武器",
+  "cv": {
+    "cn": "陶典",
+    "jp": "高桥李依",
+    "en": "Brianna Knickerbocker",
+    "kr": "김하루"
+  },
+  "desc": "「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。",
+  "attributes": {
+    "attackType": "近战",
+    "hp": 1211,
+    "attack": 32,
+    "defense": 68,
+    "proficient": 0,
+    "critRate": "5.0%",
+    "critDamage": "50%",
+    "heal": "0.0%",
+    "healMe": "0.0%",
+    "recharge": "100%"
+  }
+}

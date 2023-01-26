@@ -1,0 +1,16 @@
+{
+  "name": "gw-data",
+  "version": "1.0.0",
+  "description": "Genshin Wiki Data & Static Assets",
+  "repository": "https://github.com/genshin-wiki/gw-data",
+  "author": "Genshin-Wiki(RealHeart)",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "dev": "serve --cors -p 6481 src",
+    "serve": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "packageManager": "pnpm@7.25.1"
+}
